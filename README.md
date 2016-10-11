@@ -1,0 +1,9 @@
+- HW: 9/Functions: Build new code modules.
+- HW: Create a reusable function or set of functions that output a variety of creatures based off its inputs. Create a trigger that generates each new creature.
+- Inspiration:
+  - Diatoms, https://en.wikipedia.org/wiki/Diatom
+  - Spore, https://en.wikipedia.org/wiki/Spore_(2008_video_game)
+  - Anders Hoff, Sand Creatures, http://inconvergent.net/generative/sand-creatures
+  - Marcin Ignac, Cindermedusae, http://marcinignac.com/projects/cindermedusae/
+  - Jared Tarbell, Sand Dollar, 2004, http://www.complexification.net/gallery/machines/sandDollar/
+  - Karl Sims, Panspermia, 1990, http://www.karlsims.com/panspermia.html 
