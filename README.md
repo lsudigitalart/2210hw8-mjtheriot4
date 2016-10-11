@@ -1,3 +1,4 @@
+- HW: Click, https://classroom.github.com/assignment-invitations/c90b312b85131a1aac85b2fdedea0075
 - HW: 9/Functions: Build new code modules.
 - HW: Create a reusable function or set of functions that output a variety of creatures based off its inputs. Create a trigger that generates each new creature.
 - Inspiration:
@@ -6,4 +7,4 @@
   - Anders Hoff, Sand Creatures, http://inconvergent.net/generative/sand-creatures
   - Marcin Ignac, Cindermedusae, http://marcinignac.com/projects/cindermedusae/
   - Jared Tarbell, Sand Dollar, 2004, http://www.complexification.net/gallery/machines/sandDollar/
-  - Karl Sims, Panspermia, 1990, http://www.karlsims.com/panspermia.html 
+  - Karl Sims, Panspermia, 1990, http://www.karlsims.com/panspermia.html
