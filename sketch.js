@@ -26,7 +26,17 @@ function setup (){
   createCanvas(1024, 768);
   imageMode(CENTER);
   background(255);
+  textFont("Helvetica");
+  textSize(24);
+  text("Directions:",750,100,);
+  textSize(12);
+  text("To draw head: press a key 1 - 5",750,150);
+  text("To draw eyes: press a key q - t",750,200);
+  text("To draw nose: press a key a - g",750,250);
+  text("To draw mouth: press a key z - b",750,300);
+  text("To cear, press 0",750,350);
 }
+
 function keyTyped() {
   if (key == "1" || key == "2" || key == "3" || key == "4" || key == "5" ) {
     head(key);
@@ -39,6 +49,9 @@ function keyTyped() {
   }
   else if (key == "z" || key == "x" || key == "c" || key == "v" || key == "b" ) {
     mouth(key);
+  }
+  else if (key == "0") {
+    background(255);
   }
 }
 function head(k){
